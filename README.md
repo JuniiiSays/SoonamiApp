@@ -1,4 +1,4 @@
-# SoonamiApp
+# Soonami App
 This app displays information about a single earthquake event and whether or not there was a tsunami alert issued for it.
 
 ## Screenshots
@@ -12,9 +12,10 @@ Colors Screen             |  Phrases Screen
 ![](#)  |  ![](#) 
 
 ## Application Features & Implements
-- HTTP Request URL
-- URL Object
-- HttpURLConnection
+- HTTP Request URL: It's is also known as Query url for requesting data on the Internet.
+- URL Object : It's used to convert a String into a working Url.
+- HttpURLConnection: HttpURLConnection is a one client that is usedd to make Http request in Android.  
+- Http Request Method Types: GET,POST, PUT, DELETE
 
 How to use this repository
 --------------
