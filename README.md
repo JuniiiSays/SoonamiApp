@@ -12,6 +12,9 @@ Colors Screen             |  Phrases Screen
 ![](#)  |  ![](#) 
 
 ## Application Features & Implements
+- HTTP Request URL
+- URL Object
+- HttpURLConnection
 
 How to use this repository
 --------------
